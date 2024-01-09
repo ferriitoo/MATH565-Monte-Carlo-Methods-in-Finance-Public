@@ -14,8 +14,6 @@ Solving Statistics problems with MATLAB & Python
 
 Solving Probability Density problems with MATLAB & Python
 
-<img src="https://github.com/ferriitoo/MATH565-Monte-Carlo-Methods-in-Finance-Public/blob/main/descarga.png" width="500"/>
-
 
 📁 ***_HOMEWORK 3:_***
 
@@ -24,6 +22,9 @@ Finance problems: OPTIONS (Calls, Puts...), Brownian movement.
 📁 ***_HOMEWORK 4:_***
 
 Exercises of OPTIONS with barriers and Brownian function
+
+<img src="https://github.com/ferriitoo/MATH565-Monte-Carlo-Methods-in-Finance-Public/blob/main/descarga.png" width="500"/>
+
 
 
 
