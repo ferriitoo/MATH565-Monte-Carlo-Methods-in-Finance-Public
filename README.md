@@ -2,33 +2,22 @@
 
 # ***_MATH 565 Monte Carlo Methods in Finance_*** 🛠️
 
-This repository contains the Homework assignments and experiments carried out for the ZZZ subject, at Illinois Institute of Technology for the Master´s degree in Computational Decision Science & Operations Research.
+This repository contains the Homework assignments and experiments carried out for the Monte Carlo Methods in Finance subject, at Illinois Institute of Technology for the Master´s degree in Computational Decision Science & Operations Research.
 
-This subject provides its students with a solid understanding on ZZZZZ concepts to be used on the ZZZZZ fields:
+This subject provides its students with a solid understanding on Statistical & Mathematical concepts applied in Finance such as: Brownian-motion analysis for Call-Put options.
 
 📁 ***_HOMEWORK 1:_***
 
----
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/>  
-
----
-
+Solving Statistics problems with MATLAB & Python
 
 📁 ***_HOMEWORK 2:_***
 
----
-
----
+Solving Probability Density problems with MATLAB & Python
 
 📁 ***_HOMEWORK 3:_***
 
----
-
----
+Finance problems: OPTIONS (Calls, Puts...), Brownian movement.
 
 📁 ***_HOMEWORK 4:_***
 
----
-
----
+Exercises of OPTIONS with barriers and Brownian function
